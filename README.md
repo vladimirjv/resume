@@ -2,10 +2,6 @@
 
 Just change `src/data/info.ts` to get your personal portfolio.
 
-## portfolio template for Developers!
-
-![Feature Image](./public/assets/images/astro-portfolio.png)
-
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
