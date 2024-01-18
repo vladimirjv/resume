@@ -15,6 +15,7 @@ export interface IExperience {
   startDate: string;
   endDate: string;
   description: string[];
+  industry?: string;
 }
 export interface IExperiences {
   title: string;

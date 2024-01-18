@@ -19,6 +19,7 @@ const { title, details } = Astro.props as IExperiences;
             </p>
           </div>
           <p class="text-sm mt-3 text-blue">{item.location}</p>
+          <p class="text-sm mt-1 dark:text-purple-400 font-bold text-black/85">{item.industry}</p>
           <ul class="mt-3">
             {item.description.map((item) => (
               <li class="dark:text-gray">{item}</li>

@@ -1,94 +1,120 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  name: "Vladimir Juárez",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `
+  Versatile Full-Stack Engineer with over 4 years of experience excelling in the creation of elegant and high-performance web applications across diverse industries. A JavaScript maestro, I am proficient in front-end technologies such as React, Vue, and other leading frameworks, skillfully crafting intuitive and engaging user interfaces. On the backend, I demonstrate expertise in Express, NestJS, Fastify (JS), as well as Django and FastAPI (Python), constructing robust APIs and server-side logic.
+  
+  Industry-wise, I have successfully led financial technology projects, utilizing React to optimize financial workflows and elevate user experiences. Additionally, my contributions to the healthcare sector involve leveraging Angular and Vue to develop impactful applications within intricate regulatory landscapes.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Auto Linking Tags (Remote)",
+      location: "Qro, Mexico",
+      startDate: "Sep 2022",
+      endDate: "Mar 2023",
+      industry: "Content Media Sector - Conde Nast",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
-      ],
+        "✓ Maintenance, documentation, and development of libraries and plugins to enable an auto-tagging tool within the custom CMS developed by Conde Nast. The tool represented a significant advancement in the productivity of editors, as well as an improvement in user search and browser.",
+        "✓ This project involved the use of tools such as Node.js, React, MongoDB, and RegEx for improving accurate word detection and language detection. Additionally, it involved enhancing translations between markdown and HTML formats.",
+      ]
     },
-
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Human in the Loop (Remote)",
+      location: "Qro, Mexico",
+      startDate: "Sep 2021",
+      endDate: "Sep 2022",
+      industry: "Financial Industry - FACTSET",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
+        "- Contributed to the development of a platform that facilitated the identification and establishment of relationships between companies within documents.",
+        "- Assisted in training and improving an ML algorithm to autonomously generate new relationships.",
+        "- Focused on designing and implementing user interactions in the platform's UI, utilizing React as the chosen framework.",
+        "- Played a key role in the project's migration from React to Vue.js, taking responsibility for creating the necessary structures for the new project.",
+        "- Utilized Python in a web framework for backend development and successfully migrated it to Vue.js.",
+        "- Collaborated with cross-functional teams to gather requirements, address technical challenges, and ensure seamless integration of features.",
+        "- Successfully delivered a user-friendly platform that enhanced the efficiency and accuracy of relationship identification in financial documents.",
+      ]
     },
-
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Expediente Clínico Electrónico",
+      location: "Qro, Mexico",
+      startDate: "Jan 2020",
+      endDate: "Sep 2021",
+      industry: "Healthcare Industry",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-      ],
+        "✓ Developed a comprehensive platform for managing hospital information, including appointment scheduling and management of appointment-related data such as medical tests.",
+        "✓ Designed the architecture of the web application using Angular, ensuring efficient distribution of modules that shared information within the ",
+        "✓ Utilized Angular for the front-end development, creating a user-friendly and intuitive ",
+        "✓ Implemented Django and Postgres for the backend, ensuring seamless data management and robust database ",
+        "✓ Collaborated closely with stakeholders to understand their requirements and incorporated their feedback into the development ",
+        "✓ Successfully delivered a high-quality, scalable, and secure platform that enhanced the efficiency of hospital operations and improved patient care.",
+      ]
+    },
+    {
+      name: "Health Smart Band",
+      location: "Qro, Mexico",
+      startDate: "Fab 2021",
+      endDate: "Sep 2021",
+      industry: "Healthcare Industry",
+      description: [
+        "- Developed a Progressive Web App (PWA) designed to retrieve comprehensive medical information about a patient in case of an accident by scanning a QR code (Obtain medical record feature).",
+        "- Built the entire PWA using Vue.js and implemented essential features such as router, store, and internationalization, ensuring a smooth user experience.",
+        "- Connected the PWA to a serverless application hosted on AWS, enabling seamless data retrieval and storage.",
+        "- Collaborated closely with healthcare professionals and stakeholders to gather requirements and ensure the app met their needs effectively.",
+        "- Implemented security measures to protect sensitive patient data and ensure compliance with relevant privacy regulations.",
+        "- Successfully delivered a robust and user-friendly PWA that improved the accessibility and efficiency of retrieving critical medical information during emergency situations.",
+      ]
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
-      description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
-      ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
+      name: "Tecnológico Nacional de México",
+      location: "Veracruz, Mexico",
+      startDate: "2014",
       endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      description: ["Mechatronics engineering"],
+    },
+    {
+      name: "Computación del Golfo",
+      location: "Veracruz, Mexico",
+      startDate: "2015",
+      endDate: "2016",
+      description: ["Industrial Automation Diploma."],
+    },
+    {
+      name: "Amazon Web Services (AWS)",
+      location: "Online",
+      startDate: "2021",
+      description: ["AWS Academy Cloud Foundations"],
+    },
+    {
+      name: "Hacker Rank",
+      location: "Online",
+      startDate: "2022",
+      description: ["React Certificate"]
+    },
+    {
+      name: "Hacker Rank",
+      location: "Online",
+      startDate: "2023",
+      description: ["Javascript Certificate", "Intermediate"]
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.facebook.com/vladimirjuarezvictoriano",
+    twitter: "https://twitter.com/VladimirJV",
+    github: "https://github.com/vladimirjv",
+    email: "mailto:ivladimirjuarez@oulook.com",
+    linkedin: "https://www.linkedin.com/in/vladimir-juarez/",
   },
 
   projects: [
     {
       title: "Astro Portfolio",
-      isFeatured: true,
+      isFeatured: false,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
