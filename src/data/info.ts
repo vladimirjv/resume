@@ -1,7 +1,7 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Vladimir Juárez",
-  jobDescription: "Web Developer",
+  jobDescription: "Software Engineer",
   about: `
   Versatile Full-Stack Engineer with over 4 years of experience excelling in the creation of elegant and high-performance web applications across diverse industries. A JavaScript enthusiastic, I am proficient in front-end technologies such as React, Vue, and other leading frameworks, skillfully crafting intuitive and engaging user interfaces. On the backend, I demonstrate expertise in Express, NestJS, Fastify (JS), as well as Django and FastAPI (Python), constructing robust APIs and server-side logic.
   
