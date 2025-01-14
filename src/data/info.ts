@@ -3,7 +3,7 @@ export const info = {
   name: "Vladimir Juárez",
   jobDescription: "Web Developer",
   about: `
-  Versatile Full-Stack Engineer with over 4 years of experience excelling in the creation of elegant and high-performance web applications across diverse industries. A JavaScript maestro, I am proficient in front-end technologies such as React, Vue, and other leading frameworks, skillfully crafting intuitive and engaging user interfaces. On the backend, I demonstrate expertise in Express, NestJS, Fastify (JS), as well as Django and FastAPI (Python), constructing robust APIs and server-side logic.
+  Versatile Full-Stack Engineer with over 4 years of experience excelling in the creation of elegant and high-performance web applications across diverse industries. A JavaScript enthusiastic, I am proficient in front-end technologies such as React, Vue, and other leading frameworks, skillfully crafting intuitive and engaging user interfaces. On the backend, I demonstrate expertise in Express, NestJS, Fastify (JS), as well as Django and FastAPI (Python), constructing robust APIs and server-side logic.
   
   Industry-wise, I have successfully led financial technology projects, utilizing React to optimize financial workflows and elevate user experiences. Additionally, my contributions to the healthcare sector involve leveraging Angular and Vue to develop impactful applications within intricate regulatory landscapes.
   `,
